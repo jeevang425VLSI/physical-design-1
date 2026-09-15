@@ -90,7 +90,7 @@ This assignment focused on learning Linux commands, the OpenLane environment, an
 I practiced commands such as chmod, grep, awk, vi , and basic file-management commands while exploring OpenLane directories, logs, and reports.
 I also developed TCL scripts to analyze total/clock/data wire length, IR drop, worst-voltage cells, and levels of logic.   
 
-  <a href="https://github.com/sure-trust/JEEVAN-P-g4-25-vlsi/blob/66efbb2bd072f1c20e060242c5c6fedd57a513b5/Course%20report/Sure%20Trust%20final%20report.docx" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/JEEVAN-P-g4-25-vlsi/blob/27bd1e0262a7e981fd413f539984cc4308e2a6c1/Course%20report/Sure%20Trust%20final%20report%20(4)%20(wecompress.com)%20(2).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 
 <!-- Project 2 -->
 <h3 id="project2">Project 2: 4-Bit Up/Down Counter Physical Design Using OpenLane</h3>
