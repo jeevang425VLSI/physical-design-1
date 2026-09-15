@@ -143,23 +143,8 @@ https://maps.app.goo.gl/KF8wWKE6pgwSCrHu6?g_st=ac
 <div align="center">
 <img src="https://github.com/jeevang425VLSI/physical-design-1/blob/main/WhatsApp%20Image%202026-09-13%20at%201.32.37%20PM.jpeg" />
  alt="tree plantation Photo all" width="30%">
-<img src="https://github.com/user-attachments/assets/8ded1fcf-c747-4dbd-9c0b-3dce64263b7c" />
- alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/user-attachments/assets/25dacac7-0109-4608-ac6f-3c70d6d66a14" />
- alt="Community Service Photo 2" width="30%">
-<img src= />
- alt="Community Service Photo 3" width="30%">
-<img src= />
- alt="Community Service Photo 4" width="30%">
-    <img src= />
- alt="Community Service Photo 5" width="30%">
-<img src= />
- alt="Community Service Photo 6" width="30%">
-    <img src= />
- alt="Community Service Photo 7" width="30%">
-<img src= />
- alt="Community Service Photo 8" width="30%">
-</div>
+<img src="https://github.com/jeevang425VLSI/physical-design-1/blob/main/WhatsApp%20Image%202026-09-13%20at%2012.44.35%20PM.jpeg" />
+ alt="Community Service Photos" width="30%">
 
 ---
 
