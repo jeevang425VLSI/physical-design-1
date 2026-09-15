@@ -141,25 +141,8 @@ https://maps.app.goo.gl/KF8wWKE6pgwSCrHu6?g_st=ac
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b2df9b40-8bd8-49cb-bcf9-b8e20fada478" />
- alt="tree plantation Photo 1" width="30%">
-    <img src="https://github.com/user-attachments/assets/5f1a6235-8130-4c9e-8fdd-8f17c246581a" />/>
- alt="tree plantation Photo 2" width="30%">
-    <img src="https://github.com/user-attachments/assets/c01f96ed-76f9-41c8-9a2b-3ca29b3d33e5" />/>
- alt="tree plantation Photo 3" width="30%">
-    <img src="https://github.com/user-attachments/assets/6b00c980-d538-487f-9903-d44d3650f151" />/>
- alt="tree plantation Photo 4" width="30%">
-    <img src="https://github.com/user-attachments/assets/27b2ed07-8b44-4a20-9d62-d5c8d0062506" />
-/>
- alt="tree plantation Photo 5" width="30%">
-    <img src="https://github.com/user-attachments/assets/6145e650-40b6-41ad-9d11-9349404d84ec" />
-/>
- alt="tree plantation Photo 6" width="30%">
-    <img src="https://github.com/user-attachments/assets/c799c793-3e23-4f46-8ea0-b006f8afed13" />/>
- alt="tree plantation Photo 7" width="30%">
-    <img src= "https://github.com/user-attachments/assets/0fc4761a-ab7f-4acf-bd82-39f619723bdb" />/>
- alt="tree plantation Photo 8" width="30%">
-
+<img src="https://github.com/jeevang425VLSI/physical-design-1/blob/main/WhatsApp%20Image%202026-09-13%20at%201.32.37%20PM.jpeg" />
+ alt="tree plantation Photo all" width="30%">
 <img src="https://github.com/user-attachments/assets/8ded1fcf-c747-4dbd-9c0b-3dce64263b7c" />
  alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/user-attachments/assets/25dacac7-0109-4608-ac6f-3c70d6d66a14" />
